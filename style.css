@@ -66,13 +66,13 @@ body {
     border-radius: 25px;
     background-color: red;
     color: white;
-    height: 50px;
+    height: 40px;
     text-align: center;
     margin-left: 24%;
     margin-right: 50%;
-    padding-left: 10%;
+    padding-left: 25px;
     padding-right: 50px;   
-  font-size : 20px; width: 140px;
+  font-size : 25px; width: 130px; 
 }
 .feedback {
     width: 90%;
